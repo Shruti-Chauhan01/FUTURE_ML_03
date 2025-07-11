@@ -36,6 +36,7 @@ This project demonstrates the full pipeline from chatbot design, intent training
 ---
 
 ## 📁 Repository Structure
+```
 ├── README.md # Project overview & instructions
 ├── .gitignore # Ignored files for Git
 └── report/ # PDF report of project workflow
@@ -43,7 +44,7 @@ This project demonstrates the full pipeline from chatbot design, intent training
     ├── Dialogflow_Intents_Screenshots/ # Intent configuration screenshots
     ├── Telegram_Setup/ # BotFather & token setup screenshots
     ├── chat_examples/ # Sample Telegram chat screenshots
-
+```
 ---
 
 ## 📋 How to Use
