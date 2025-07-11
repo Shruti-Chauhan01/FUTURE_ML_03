@@ -49,8 +49,7 @@ This project demonstrates the full pipeline from chatbot design, intent training
 ## 📋 How to Use
 
 1. Clone the repository:
-   git clone [https://github.com/yourusername/Chatbot_Task3_FutureInterns.git
-   cd Chatbot_Task3_FutureInterns](https://github.com/Shruti-Chauhan01/FUTURE_ML_03)
+   git clone [CLONE LINK](https://github.com/Shruti-Chauhan01/FUTURE_ML_03)
 
 2. Explore the **Dialogflow intents** folder to understand the chatbot design.
 
@@ -73,7 +72,7 @@ Thanks to **Future Interns** for the excellent internship program and real-world
 For questions or collaboration, feel free to reach out!
 
 * LinkedIn: [MY LinkedIn Profile](https://www.linkedin.com/in/shruti-chauhan-35b082338/)
-* Email: [your.email@example.com](shrutichauhan0086@gmail.com)
+* Email: [MY Mail](shrutichauhan0086@gmail.com)
 
 ---
 
